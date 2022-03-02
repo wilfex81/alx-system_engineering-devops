@@ -21,3 +21,5 @@ mv
 moves files from one directory to another
 rm
 deletes a file
+rm -r 
+deletes a directory

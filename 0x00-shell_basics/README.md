@@ -17,3 +17,5 @@ And hidden files (starting with .)
 touch 
 creates a directory 
 *sorry, mkdir creates a directory
+mv
+moves files from one directory to another
